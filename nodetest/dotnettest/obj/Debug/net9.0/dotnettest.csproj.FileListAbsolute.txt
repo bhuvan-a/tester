@@ -1,0 +1,14 @@
+/Users/mbhuvananand/Code/nodetest/dotnettest/bin/Debug/net9.0/dotnettest
+/Users/mbhuvananand/Code/nodetest/dotnettest/bin/Debug/net9.0/dotnettest.deps.json
+/Users/mbhuvananand/Code/nodetest/dotnettest/bin/Debug/net9.0/dotnettest.runtimeconfig.json
+/Users/mbhuvananand/Code/nodetest/dotnettest/bin/Debug/net9.0/dotnettest.dll
+/Users/mbhuvananand/Code/nodetest/dotnettest/bin/Debug/net9.0/dotnettest.pdb
+/Users/mbhuvananand/Code/nodetest/dotnettest/obj/Debug/net9.0/dotnettest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mbhuvananand/Code/nodetest/dotnettest/obj/Debug/net9.0/dotnettest.AssemblyInfoInputs.cache
+/Users/mbhuvananand/Code/nodetest/dotnettest/obj/Debug/net9.0/dotnettest.AssemblyInfo.cs
+/Users/mbhuvananand/Code/nodetest/dotnettest/obj/Debug/net9.0/dotnettest.csproj.CoreCompileInputs.cache
+/Users/mbhuvananand/Code/nodetest/dotnettest/obj/Debug/net9.0/dotnettest.dll
+/Users/mbhuvananand/Code/nodetest/dotnettest/obj/Debug/net9.0/refint/dotnettest.dll
+/Users/mbhuvananand/Code/nodetest/dotnettest/obj/Debug/net9.0/dotnettest.pdb
+/Users/mbhuvananand/Code/nodetest/dotnettest/obj/Debug/net9.0/dotnettest.genruntimeconfig.cache
+/Users/mbhuvananand/Code/nodetest/dotnettest/obj/Debug/net9.0/ref/dotnettest.dll
